@@ -1,4 +1,4 @@
-### <div align="center">Olá, eu sou João Vitor Yukio Bordin Yamashita, um Engenheiro Eletrônico e Mestrando com foco em Inteligência Artificial e Aprendizado de Máquina 👨‍💻</div>  
+### <div align="center">Olá, eu sou João Vitor Yukio Bordin Yamashita, Engenheiro Eletrônico e Mestrando em Inteligência Artificial e Aprendizado de Máquina 👨‍💻</div>  
 
 - 🔭 Atualmente, estou trabalhando em meu mestrado, focado em aprendizado de máquina e inteligência artificial.
 - 🌱 Estou constantemente aprendendo novas técnicas e tecnologias para aprimorar minhas habilidades, incluindo TensorFlow, scikit-learn e PyTorch.
