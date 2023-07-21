@@ -33,7 +33,9 @@
 <a href="https://linkedin.com/in/joao-vitor-yukio-bordin-yamashita-863bb9146/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-📫 Email: joao.yamashita@unifei.edu.br
+<a href="joao.yamashita@unifei.edu.br" target="_blank">
+<img src=	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
 </div>  
 
 <br/>  
